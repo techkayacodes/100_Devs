@@ -10,7 +10,7 @@ I am participating in the 100 Devs BootCamp, a comprehensive program focused on 
 - Watch *How to Study for Exams: Spaced Repetition* by Ali Abdaal
 - **Due:** Class 3
 - **Submission:** Upload your screenshot to ImgBB or another image hosting service
-- [x] 
+- **Status:** [x] 
 
 ### Class 2
 - **Build HTML for BBC Website**: It doesn't need to look like the image, just do the HTML structure with no CSS.
@@ -18,7 +18,7 @@ I am participating in the 100 Devs BootCamp, a comprehensive program focused on 
 - Read Shay Howe: Learn to Code (all 12)
 - **Due:** Class 4
 - **Submission:** Upload your code to Glitch, Codepen, or Replit
-- [x]
+- **Status:** [x]
 
 ### Class 3
 - **Finish Khan Academy and Tech Crunch from Class 3, HTML only**
