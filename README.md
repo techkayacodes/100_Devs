@@ -9,7 +9,6 @@ I am participating in the 100 Devs BootCamp, a comprehensive program focused on 
 - Watch *How to Study for Exams: Evidence-Based Revision Tips* by Ali Abdaal
 - Watch *How to Study for Exams: Spaced Repetition* by Ali Abdaal
 - **Due:** Class 3
-- **Status:** Submitted
 - **Submission:** Upload your screenshot to ImgBB or another image hosting service
 
 ### Class 2
@@ -17,14 +16,12 @@ I am participating in the 100 Devs BootCamp, a comprehensive program focused on 
 - Use MDN
 - Read Shay Howe: Learn to Code (all 12)
 - **Due:** Class 4
-- **Status:** Submitted
 - **Submission:** Upload your code to Glitch, Codepen, or Replit
 
 ### Class 3
 - **Finish Khan Academy and Tech Crunch from Class 3, HTML only**
 - Read *Learn Layout*
 - **Due:** Class 5
-- **Status:** Submitted
 - **Submission:** Upload your code to Glitch, Codepen, or Replit
 
 ### Classes 4 & 5
@@ -34,14 +31,12 @@ I am participating in the 100 Devs BootCamp, a comprehensive program focused on 
 - **Complete the Three Layouts from Class 5, HTML and CSS**: Layout 1, Layout 2, Layout 3
 - Read Shay Howe: Responsive Design
 - **Due:** Class 6
-- **Status:** Submitted
 - **Submission:** Upload your code to Glitch, Codepen, or Replit
 
 ### Class 6
 - **Make 15 minutes of pain responsive** (use floats and 3 media queries)
 - Read Shay Howe: Advanced (all 10)
 - **Due:** Class 8
-- **Status:** Submitted
 - **Submission:** Upload your code to Glitch, Codepen, or Replit
 
 ### Class 7
@@ -56,7 +51,6 @@ I am participating in the 100 Devs BootCamp, a comprehensive program focused on 
 - **Do the Restaurant & Hair Salon layouts**
 - Watch *JavaScript Crash Course for Beginners*
 - **Due:** Class 12
-- **Status:** Submitted
 - **Submission:** Upload your code to Glitch, Codepen, or Replit
 
 ### Classes 12 - 14
@@ -70,13 +64,11 @@ I am participating in the 100 Devs BootCamp, a comprehensive program focused on 
 - NETWORK!
 - Read *The JS Way: Loops*
 - **Due:** Class 15
-- **Status:** Submitted
 - **Submission:** Screenshot your work or upload to Codepen (all tasks)
 
 ### Class 15
 - **Comment out your JS code from class (picker, calculator, etc) type it all out again without looking, peek if you have to. Repeat until you do not have to peek. Delete your JS entirely and do it again. Then do it again but change something and submit your changes.**
 - **Due:** Class 16
-- **Status:** Submitted
 - **Submission:** Upload your code to Glitch, Codepen, or Replit
 
 ### Classes 16 - 18
@@ -88,7 +80,6 @@ I am participating in the 100 Devs BootCamp, a comprehensive program focused on 
 - Do Codecademy: Intro to JavaScript (1-6)
 - Watch *Git and GitHub Crash Course*
 - **Due:** Class 19
-- **Status:** Submitted
 - **Submission:** The portfolio and proposal/contract were assigned in Class 15 but are due Class 19.
 
 ### Classes 19 - 21
@@ -99,7 +90,6 @@ I am participating in the 100 Devs BootCamp, a comprehensive program focused on 
 - Do a minimum of 1 8 kyu Fundamentals on CodeWars EVERY DAY. Spend at least 20 minutes trying to solve it before looking at the solution!
 - Do JavaScript 30: Day 04 Array Cardio (super hard, do it on Discord together) and then do it AGAIN
 - **Due:** Class 22
-- **Status:** Submitted
 - **Submission:** The 100 Devs clan name on Codewars is #100Devs - leonnoel.com/twitch
 
 ### Classes 22 - 24
@@ -116,7 +106,6 @@ I am participating in the 100 Devs BootCamp, a comprehensive program focused on 
 ### Classes 25
 - **Complete the Professional Checklist**
 - **Due:** Class 38
-- **Status:** Submitted
 - **This is due after several other homework assignments because it could take you a while to finish - start early!**
 
 ### Classes 26 & 27
@@ -130,7 +119,6 @@ I am participating in the 100 Devs BootCamp, a comprehensive program focused on 
   - Add an API project to your portfolio website
   - Do a 7kyu kata
 - **Due:** Class 28
-- **Status:** Submitted
 
 ### Class 28
 - **Do Intro to JS Codecademy course. ~30 hours to finish whole course - don't pay!**
@@ -151,7 +139,6 @@ I am participating in the 100 Devs BootCamp, a comprehensive program focused on 
 - **Extras:**
   - Do CodeWars Array Problems: 8 kyu, 7 kyu, 6 kyu, 7 kyu, 8 kyu
 - **Due:** Class 36
-- **Status:** Submitted
 
 ### Class 32
 - Work in a group on a project (whatever you like)
@@ -192,12 +179,10 @@ I am participating in the 100 Devs BootCamp, a comprehensive program focused on 
 ### Classes 39 & 40
 - **Make your own API and push to Heroku**
 - **Due:** Class 41
-- **Status:** Submitted
 
 ### Classes 41 - 43
 - **Work with a group to comment every line of this to-do list and submit a pull request with your completed code.**
 - **Due:** Class 44
-- **Status:** Submitted
 
 ### Classes 44 - 49
 - Watch *DevMarketer's MVC video*
@@ -205,7 +190,6 @@ I am participating in the 100 Devs BootCamp, a comprehensive program focused on 
 - Take a peek
 - **Work in a group to build out a lecture on MVC**
 - **Due:** Class 50
-- **Status:** Submitted
 
 ### Classes 50 & 51
 - **Work in a group to improve the todo list**
@@ -219,7 +203,6 @@ I am participating in the 100 Devs BootCamp, a comprehensive program focused on 
 - **Extras:**
   - Watch Mayanwolfe's walkthrough of the auth code
 - **Due:** Class 52
-- **Status:** Submitted
 
 ### Classes 52 - 54
 - 1 coffee chat / 3 connections
@@ -237,7 +220,6 @@ I am participating in the 100 Devs BootCamp, a comprehensive program focused on 
 ### Class 55
 - **Work together with a group to add comments to Binary Upload Boom and submit a pull request with your completed code.**
 - **Due:** Class 56
-- **Status:** Submitted
 
 ### Class 56
 - Read the React documentation
