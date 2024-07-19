@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.header {
+    background-color: #000;
+    color: #fff;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header img {
+    height: 24px;
+}
+.nav {
+    display: flex;
+    gap: 20px;
+}
+.nav a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+.search {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.search input {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.main-content {
+    padding: 20px;
+}
+.main-content h1 {
+    margin: 0;
+}
+.main-content .top-news {
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+}
+.main-content .top-news > div {
+    flex: 1;
+    position: relative;
+}
+.main-content .top-news img {
+    width: 100%;
+    height: auto;
+}
+.main-content .top-news h2 {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    margin: 0;
+}
+.main-content .news-section {
+    margin-top: 40px;
+}
+.main-content .news-section h2 {
+    margin-bottom: 20px;
+}
+.main-content .news-section .news-grid {
+    display: flex;
+    gap: 20px;
+}
+.main-content .news-section .news-grid > div {
+    flex: 1;
+}
+.main-content .news-section .news-grid img {
+    width: 100%;
+    height: auto;
+}
+.main-content .news-section .news-grid h3 {
+    margin: 10px 0;
+}
+.main-content .news-section .news-grid p {
+    margin: 0;
+    color: #666;
+}
